@@ -1,2 +1,3 @@
 # WritGAN
 
+## The Model
